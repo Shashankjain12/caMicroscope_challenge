@@ -6,10 +6,10 @@ As a part of this coding challenge I have used YOLO object detection to detect c
 
 Before Object detection,
 
-<img src="./images/cat2.jpeg"></img>
+<img src="./images/cat2.jpeg" height="100" width="100" ></img>
 
 After Object Detection,
 
-<img src="./images/cat_detect.jpeg"></img>
+<img src="./images/cat_detect.png" height="100" width="100"></img>
 
 
