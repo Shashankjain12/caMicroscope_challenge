@@ -12,6 +12,13 @@ Weights file can be downloaded using :-
 
 ```wget https://pjreddie.com/media/files/darknet19.weights```
 
+YOLO cfg file can be downloaded using :-
+
+```wget https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg```
+
+Names file can be downloaded using :-
+
+```wget https://github.com/pjreddie/darknet/blob/master/data/coco.names```
 
 Before Object detection,
 
