@@ -15,11 +15,11 @@ Weights file can be downloaded using :-
 
 Before Object detection,
 
-<img src="./images/cat2.jpeg" height="100" width="100" ></img>
+<img src="./images/cat2.jpeg" height="300" width="300" ></img>
 
 After Object Detection,
 
-<img src="./images/cat_detect.png" height="100" width="100"></img>
+<img src="./images/cat_detect.png" height="300" width="300"></img>
 
 Hence, Object Detection using OpenCV and YOLO weights parameters can be done and visualized in order to get the more accurate results.
 
