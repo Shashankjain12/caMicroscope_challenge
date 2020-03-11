@@ -31,3 +31,23 @@ After Object Detection,
 Hence, Object Detection using OpenCV and YOLO weights parameters can be done and visualized in order to get the more accurate results.
 
 Similarly, to generalize my model the general approach of mine to identify the regions of cancer is to create a Mask RCNN which involves masking out those areas of Interest which have the cancer cells chances so as to improve the results using the pretrained model and using various transfer learning techniques to reciprocate that model to perform prediction on new images so visualize more accurate results.
+
+Now webserver is being created-
+
+To run the webserver run the following command:
+
+```python caMicroscode_code_challenge_webserver.py```
+
+<img src="./images/sc1.png" height="300" width="300"></img>
+
+Then go to the localhost : 127.0.0.1:5000/
+
+Then Upload the image file
+
+<img src="./images/sc3.png" height="300" width="300"></img>
+
+Then after performing the cat detection
+
+<img src="./images/sc4.png" height="300" width="300"></img>
+
+This way we can run and detect multiple cats using webserver!!
